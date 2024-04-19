@@ -11,8 +11,8 @@ Este script é destinado apenas para fins de segurança pessoal e não deve ser 
 ## Instruções de Uso
 - https://github.com/gabrielpereirapinheiro/whatsapp-loading/raw/main/wpp-loading.user.js
 
-# Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, correções de bugs ou adicionar recursos adicionais ao script.
 
-# Aviso Legal
+## Aviso Legal
 Este script é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita. O autor não se responsabiliza por qualquer uso indevido ou ilegal deste script.
