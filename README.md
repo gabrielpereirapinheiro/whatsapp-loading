@@ -1,18 +1,19 @@
-# WhatsApp Loading Infinito
-## Descrição
-Este script tem a finalidade de manter o aplicativo WhatsApp carregando indefinidamente, impedindo que pessoas não autorizadas acessem sua conta enquanto estiver ausente do dispositivo.
+# WhatsApp Infinite Loading
+## Description
+This script is designed to keep the WhatsApp application in a perpetual loading state, preventing unauthorized access to your account while you're away from your device.
 
-## Como funciona
-O script simula constantemente uma atividade de carregamento no WhatsApp, fazendo com que o aplicativo pareça estar permanentemente em um estado de carregamento. Isso dificulta que outras pessoas acessem suas conversas enquanto o dispositivo estiver desbloqueado.
+## How It Works
+The script constantly simulates a loading activity on WhatsApp, making the application appear to be indefinitely loading. This makes it difficult for others to access your conversations while the device is unlocked.
 
-## Atenção
-Este script é destinado apenas para fins de segurança pessoal e não deve ser usado para prejudicar ou violar a privacidade de outras pessoas.
+## Attention
+This script is intended solely for personal security purposes and should not be used to harm or violate the privacy of others.
 
-## Instruções de Uso
-- https://github.com/gabrielpereirapinheiro/whatsapp-loading/raw/main/wpp-loading.user.js
+## Install
+https://github.com/gabrielpereirapinheiro/whatsapp-loading/raw/main/wpp-loading.user.js
 
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, correções de bugs ou adicionar recursos adicionais ao script.
+## Contributions
+Contributions are welcome! Feel free to propose improvements, bug fixes, or additional features to the script.
 
-## Aviso Legal
-Este script é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita. O autor não se responsabiliza por qualquer uso indevido ou ilegal deste script.
+## Legal Disclaimer
+This script is provided "as is," without warranty of any kind, express or implied. The author is not responsible for any misuse or illegal use of this script.
+
