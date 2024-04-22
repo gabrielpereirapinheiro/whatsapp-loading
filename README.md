@@ -5,6 +5,10 @@ This script is designed to keep the WhatsApp application in a perpetual loading 
 ## How It Works
 The script constantly simulates a loading activity on WhatsApp, making the application appear to be indefinitely loading. This makes it difficult for others to access your conversations while the device is unlocked.
 
+## Demo
+
+https://github.com/gabrielpereirapinheiro/whatsapp-loading/assets/14075345/36c01149-c244-4a59-9040-04fb352f0018
+
 ## Attention
 This script is intended solely for personal security purposes and should not be used to harm or violate the privacy of others.
 
